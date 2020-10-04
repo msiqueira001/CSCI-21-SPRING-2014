@@ -1,4 +1,5 @@
 /**********************************************/
+/*** my first project during my second class in data structures in C++ ***/
 /***** Programming Project 1    UNIT TEST *****/
 /*********Written by MArcela Siqueira ****reviewed by Chris Lombardi************/
 
